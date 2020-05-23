@@ -1,0 +1,2 @@
+C:\Users\79995\Desktop\Arkanoid\Debug\Arkanoid.exe
+C:\Users\79995\Desktop\Arkanoid\Debug\Arkanoid.pdb
